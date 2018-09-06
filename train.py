@@ -19,11 +19,12 @@ import sys
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', default ='datasets', help='path to root dataset')
+    parser.add_argument('--dataset', default ='datasets/dataset_1', help='path to root dataset')
     parser.add_argument('--train_set', default ='train', help='path to train dataset')
     parser.add_argument('--val_set', default ='validation', help='path to validation dataset')
     parser.add_argument('--val', action='store_true', default=True, help='enables validation')
-    parser.add_argument('--name', default ='output', help='name of training output')
+    parser.add_argument('--outf', default='output', help='folder to output images and model checkpoints')
+    parser.add_argument('--name', default ='dataset_1_output', help='name of training output')
     parser.add_argument('--workers', type=int, help='number of data loading workers', default=1)
     parser.add_argument('--batchSize', type=int, default=50, help='input batch size')
     parser.add_argument('--imageSize', type=int, default=100, help='the height / width of the input image to network')
@@ -32,7 +33,6 @@ if __name__ == '__main__':
     parser.add_argument('--beta1', type=float, default=0.5, help='beta1 for adam. default=0.5')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
     parser.add_argument('--resume', type=int, default=0, help="choose a epochs to resume from (0 to train from scratch)")
-    parser.add_argument('--outf', default='output', help='folder to output images and model checkpoints')
     parser.add_argument('--checkpoint', type=int, default=1, help='number of epochs for checkpointing')
     parser.add_argument('--manualSeed', type=int, help='manual seed')
     parser.add_argument('--debug', action='store_true', help='enables printing detail loss information')

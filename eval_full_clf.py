@@ -22,13 +22,13 @@ import math
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', default ='datasets', help='path to root dataset')
+    parser.add_argument('--dataset', default ='datasets/dataset_1', help='path to root dataset')
     parser.add_argument('--test_set', default ='test', help='path to test dataset')
-    parser.add_argument('--name', default ='output', help='name of training output')
+    parser.add_argument('--outf', default='output', help='folder to output images and model checkpoints')
+    parser.add_argument('--name', default ='dataset_1_output', help='name of training output')
     parser.add_argument('--workers', type=int, help='number of data loading workers', default=1)
     parser.add_argument('--imageSize', type=int, default=100, help='the height / width of the input image to network')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
-    parser.add_argument('--outf', default='output', help='folder to output images and model checkpoints')
     parser.add_argument('--id', type=int, help='checkpoint ID')
     parser.add_argument('--random_sample', type=int, default=0, help='number of random sample to test')
 
