@@ -23,7 +23,7 @@ You can clone this repository into your favorite directory:
       
 ## Dataset
 Each dataset has two parts:
-- Photographic images: \<path-to-dataset\>\<train;test;validation\>PI
-- Computer-generated images: \<path-to-dataset\>\<train;test;validation\>CGI
+- Photographic images: \<path-to-dataset\>/\<train;test;validation\>PI
+- Computer-generated images: \<path-to-dataset\>/\<train;test;validation\>CGI
 
 ## TO BE CONTINUED
