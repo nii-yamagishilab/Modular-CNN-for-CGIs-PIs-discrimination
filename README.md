@@ -29,9 +29,9 @@ Each dataset has two parts:
 Moreover, splicing images will be stored in \<path-to-dataset\>/splicing
 
 ## Training
-### Train the feature extractor and classifier using Multilayer Perceptron (MLP)
+### + Train the feature extractor and classifier using Multilayer Perceptron (MLP)
 
-### Train the classifier using Linear Discriminant Analysis (LDA)
+### + Train the classifier using Linear Discriminant Analysis (LDA)
 
 ## Evaluating - Patch Level
 ### + Evaluating using MLP
