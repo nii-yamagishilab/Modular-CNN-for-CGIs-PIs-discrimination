@@ -45,7 +45,7 @@ Moreover, splicing images will be stored in \<path-to-dataset\>/splicing
 
 ## Evaluating - Splicing Detection
 
-#  Authors
+## Authors
 - Huy H. Nguyen (https://scholar.google.com/citations?user=8q1km_cAAAAJ&hl=en)
 - Ngoc-Dung T. Tieu
 - Hoang-Quoc Nguyen-Son: (https://scholar.google.com/citations?user=UTODzwgAAAAJ&hl=en)
@@ -53,7 +53,7 @@ Moreover, splicing images will be stored in \<path-to-dataset\>/splicing
 - Junichi Yamagishi (https://researchmap.jp/read0205283/?lang=english)
 - Isao Echizen (https://researchmap.jp/echizenisao/?lang=english)
 
-# Reference
+## Reference
 H. H. Nguyen, T. N.-D. Tieu, H.-Q. Nguyen-Son, V. Nozick, J. Yamagishi, and I. Echizen, “Modular Convolutional Neural Network for Discriminating between Computer-Generated Images and Photographic Images,” Proc. of the 13th International Conference on Availability, Reliability and Security (ARES 2018), 10 pages, (August 2018)
 
 ## TO BE CONTINUED
