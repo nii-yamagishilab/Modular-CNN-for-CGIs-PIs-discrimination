@@ -34,14 +34,14 @@ Moreover, splicing images will be stored in \<path-to-dataset\>/splicing
 ### Train the classifier using Linear Discriminant Analysis (LDA)
 
 ## Evaluating - Patch Level
-### Evaluating using MLP
+### + Evaluating using MLP
 
-### Evaluating using LDA
+### + Evaluating using LDA
 
 ## Evaluating - Full-Size Images
-### Evaluating using MLP
+### + Evaluating using MLP
 
-### Evaluating using LDA
+### + Evaluating using LDA
 
 ## Evaluating - Splicing Detection
 
