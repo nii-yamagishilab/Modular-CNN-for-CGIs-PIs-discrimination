@@ -45,5 +45,12 @@ Moreover, splicing images will be stored in \<path-to-dataset\>/splicing
 
 ## Evaluating - Splicing Detection
 
+#  Authors
+- Huy H. Nguyen (https://scholar.google.com/citations?user=8q1km_cAAAAJ&hl=en)
+- Ngoc-Dung T. Tieu
+- Hoang-Quoc Nguyen-Son: (https://scholar.google.com/citations?user=UTODzwgAAAAJ&hl=en)
+- Vincent Nozick (http://www-igm.univ-mlv.fr/~vnozick/?lang=fr)
+- Junichi Yamagishi (https://researchmap.jp/read0205283/?lang=english)
+- Isao Echizen (https://researchmap.jp/echizenisao/?lang=english)
 
 ## TO BE CONTINUED
