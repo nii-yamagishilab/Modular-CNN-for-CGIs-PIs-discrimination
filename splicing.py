@@ -36,7 +36,6 @@ if __name__ == '__main__':
     parser.add_argument('--batchSize', type=int, default=50, help='input batch size')
     parser.add_argument('--no-cuda', action='store_true', default=False, help='disables CUDA training')
     parser.add_argument('--id', type=int, default=45, help='checkpoint ID')
-    parser.add_argument('--random_sample', type=int, default=0, help='number of random sample to test')
     parser.add_argument('--output', default ='splicing', help='path to store enhanced images')
 
     opt = parser.parse_args()
