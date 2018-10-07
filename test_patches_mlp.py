@@ -1,3 +1,12 @@
+"""
+Copyright (c) 2018, National Institute of Informatics
+All rights reserved.
+Author: Huy H. Nguyen
+
+-----------------------------------------------------
+Script for evaluating the network on patches dataset using the MLP classifier
+
+"""
 
 import argparse
 import os

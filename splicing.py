@@ -1,3 +1,12 @@
+"""
+Copyright (c) 2018, National Institute of Informatics
+All rights reserved.
+Author: Huy H. Nguyen
+
+-----------------------------------------------------
+Script for evaluating the network on splicing images using the LDA classifier
+
+"""
 
 import argparse
 import os
@@ -9,10 +18,6 @@ import torchvision.transforms as transforms
 import torchvision.models as models
 from torch.autograd import Variable
 import numpy as np
-from sklearn.utils import shuffle
-from sklearn import metrics
-from sklearn import preprocessing
-from sklearn.svm import SVC
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 import pickle
 import math
