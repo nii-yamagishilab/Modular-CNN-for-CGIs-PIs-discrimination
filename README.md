@@ -74,7 +74,7 @@ Evaluating the network using LDA classifier on splicing images can be done as fo
     $ python splicing.py --dataset ./datasets/splicing --outf ./output --name dataset_1_output --stepSize 20 --id 50
 
 ## Authors
-- Huy H. Nguyen (https://scholar.google.com/citations?user=8q1km_cAAAAJ&hl=en)
+- Huy H. Nguyen (https://researchmap.jp/nhhuy/?lang=english)
 - Ngoc-Dung T. Tieu
 - Hoang-Quoc Nguyen-Son: (https://scholar.google.com/citations?user=UTODzwgAAAAJ&hl=en)
 - Vincent Nozick (http://www-igm.univ-mlv.fr/~vnozick/?lang=fr)
