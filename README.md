@@ -75,7 +75,7 @@ Evaluating the network using LDA classifier on splicing images can be done as fo
 
 ## Authors
 - Huy H. Nguyen (https://researchmap.jp/nhhuy/?lang=english)
-- Ngoc-Dung T. Tieu
+- Ngoc-Dung T. Tieu (https://researchmap.jp/Ngoc-Dung/?lang=english)
 - Hoang-Quoc Nguyen-Son: (https://scholar.google.com/citations?user=UTODzwgAAAAJ&hl=en)
 - Vincent Nozick (http://www-igm.univ-mlv.fr/~vnozick/?lang=fr)
 - Junichi Yamagishi (https://researchmap.jp/read0205283/?lang=english)
